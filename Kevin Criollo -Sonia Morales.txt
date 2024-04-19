@@ -1,0 +1,28 @@
+Kevin Criollo -Sonia Morales
+## Pregunta 1: ¿Qué es una biblioteca de componentes en el contexto del desarrollo de software?
+
+A. Un software que automatiza las pruebas de aplicaciones móviles.
+
+B. Un conjunto de normas para la escritura de código en equipos de desarrollo.
+
+C. Una colección de componentes reutilizables que pueden ser utilizados para desarrollar software de manera más eficiente.
+
+  ## Respuesta correcta: C
+
+
+
+## Pregunta 2: ¿Cuál de las siguientes es una biblioteca de interfaz de usuario muy utilizada en el desarrollo web?
+
+A. React
+B. Hibernate
+C. Express
+  
+  ## Respuesta correcta: A
+
+
+## Pregunta 3: ¿Qué herramienta se utiliza para manejar y resolver dependencias en proyectos de JavaScript?
+A. Maven
+B. NPM
+C. NuGet
+
+  ## Respuesta correcta: B
